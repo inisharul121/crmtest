@@ -41,6 +41,9 @@ INSTALLED_APPS = [
     'apitest',
     'authenticationapp',
     'emailsend',
+    'search',
+    'apisearch',
+    'rest_framework',
 ]
 
 MIDDLEWARE = [
